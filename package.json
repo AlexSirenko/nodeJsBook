@@ -1,0 +1,22 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "meadowlark is portal for travelers",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirenkoJr/nodeJsBook.git"
+  },
+  "author": "sirenkoJr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirenkoJr/nodeJsBook/issues"
+  },
+  "homepage": "https://github.com/sirenkoJr/nodeJsBook#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
